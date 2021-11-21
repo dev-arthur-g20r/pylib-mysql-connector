@@ -187,7 +187,7 @@ print(dataResult)
 ```
 
 ## Todo List
-![Todo List for the Activity](https://photos.app.goo.gl/MxD4jxpCXMhsUbwSA)
+![Todo List for the Activity](https://github.com/dev-arthur-g20r/pylib-mysql-connector/blob/main/images/TodoList.jpg)
 
 
 > Written with [StackEdit](https://stackedit.io/).
