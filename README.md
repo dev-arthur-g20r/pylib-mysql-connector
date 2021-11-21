@@ -187,7 +187,7 @@ print(dataResult)
 ```
 
 ## Todo List
-![Todo List for the Activity](https://drive.google.com/file/d/1zqsaUJizh2R9AucgQGulJFtbrTHdUfYY/view?usp=sharing)
+![Todo List for the Activity](https://photos.app.goo.gl/MxD4jxpCXMhsUbwSA)
 
 
 > Written with [StackEdit](https://stackedit.io/).
